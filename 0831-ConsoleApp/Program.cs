@@ -10,7 +10,7 @@ namespace _0831_ConsoleApp
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine(":::AXCEL.INC CALCULATOR BOOTING UP::: . . ."); //Egen touch
+            System.Console.WriteLine(":::AXCEL.INC CALCULATOR BOOTING UP:: : . . ."); //Egen touch
             Console.WriteLine("");
             System.Console.Write("Please input desired calculation:"); //Den frågar och tar emot det första talet
             System.Console.WriteLine("What is the first number? ");
